@@ -1,16 +1,16 @@
 # startup
-Web Page for an startup company
+Web Page for a startup company using Bootstrap and Fontawesome libraries
 
 # Libraries
 
 Bootstrap
+Fontawesome
 
-
-***Don't forget to install all the libraries to run the project***
+***Those libraries are already on the project, so it's not necessary to install them***
 
 # Web Page
 
-[Coffee Shop](https://jare9716.github.io/CoffeShoop/)
+[Startup](https://jare9716.github.io/startup/)
 
 # Images
 
