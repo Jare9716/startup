@@ -1,0 +1,192 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+header {
+  background: url(../img/bg.jpg), #019851;
+  background-size: cover;
+  background-position: center 0;
+  background-repeat: no-repeat;
+}
+header .contenedor_logo_menu {
+  padding: 25px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+}
+header .contenedor_logo_menu .logo a {
+  display: block;
+}
+header .contenedor_logo_menu .logo a img {
+  vertical-align: top;
+}
+header .contenedor_logo_menu .menu {
+  text-align: right;
+  line-height: 50px;
+}
+header .contenedor_logo_menu .menu a {
+  color: #fff;
+  margin-left: 60px;
+  font-size: 18px;
+  text-decoration: none;
+}
+header .contenedor_logo_menu .menu a:hover {
+  text-decoration: underline;
+}
+header .textos {
+  color: #fff;
+  text-align: center;
+  margin: 200px 0;
+}
+header .textos .primera_linea,
+header .textos .segunda_linea {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-weight: 300;
+}
+header .textos .primera_linea {
+  font-size: 35px;
+  list-style: 35px;
+  margin-bottom: 30px;
+}
+header .textos .segunda_linea {
+  font-size: 25px;
+  list-style: 25px;
+  margin-bottom: 60px;
+}
+header .textos .contenedor-btns {
+  margin-bottom: 220px;
+}
+header .textos .contenedor-btns a {
+  border-radius: 4px;
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 12px 0;
+  font-weight: 600;
+  width: 235px;
+  display: inline-block;
+  text-align: center;
+  margin: 0 10px;
+  text-decoration: none;
+}
+header .textos .contenedor-btns a:hover {
+  text-decoration: none;
+  background: #fff;
+  color: #4f4f4f;
+}
+
+.main .caracteristicas {
+  padding: 70px 0;
+}
+.main .caracteristicas .titulo {
+  margin-top: -200px;
+  text-align: center;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+  color: #000;
+  margin-bottom: 70px;
+}
+.main .caracteristicas .caracteristica {
+  text-align: center;
+}
+.main .caracteristicas .caracteristica .icono {
+  vertical-align: top;
+  margin-bottom: 30px;
+}
+.main .caracteristicas .caracteristica .primera_linea {
+  font-weight: 700;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.main .caracteristicas .caracteristica .parrafo {
+  margin-bottom: 30px;
+  line-height: 28px;
+}
+.main .fotos {
+  margin-bottom: 70px;
+}
+.main .fotos .foto {
+  margin-bottom: 20px;
+}
+.main .fotos .foto .thumb img {
+  border-radius: 3px;
+  width: 100%;
+  vertical-align: top;
+}
+.main .fotos .foto .titulo {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 300;
+}
+.main .fotos .foto .titulo.azul {
+  color: #4facd3;
+}
+.main .fotos .foto .titulo.naranja {
+  color: #ddb146;
+}
+.main .fotos .foto .parrafo {
+  line-height: 28px;
+}
+.main .fotos .foto .derecha {
+  text-align: right;
+}
+.main .clientes {
+  background: #2d353e;
+  padding: 40px 0;
+}
+.main .clientes .titulo {
+  text-align: center;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+  color: #fff;
+  margin-bottom: 40px;
+}
+.main .clientes .cliente {
+  text-align: center;
+}
+.main .clientes .cliente a {
+  display: block;
+}
+.main .precios {
+  background: url("../img/precios-bg.jpg"), #727171;
+  background-size: cover;
+  background-position: center 0;
+  background-repeat: no-repeat;
+  padding: 70px 0;
+}
+.main .precios .titulo {
+  text-align: center;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+  color: #fff;
+  margin-bottom: 70px;
+}
+.main .precios .plan {
+  background: #fff;
+  text-align: center;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  padding: 50px 0;
+  -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.35);
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.35);
+}
+.main .precios .plan .nombre {
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+.main .precios .plan .precio {
+  font-weight: 300;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+/*# sourceMappingURL=estilos.css.map */
