@@ -14,7 +14,7 @@ Bootstrap
 
 # Images
 
-<img src="img/SC1.1.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="img/SC1.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/SC2.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/SC3.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="img/SC4.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp; 
